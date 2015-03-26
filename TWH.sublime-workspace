@@ -1,0 +1,180 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/opt/local/var/GIT/TWH/TWH.sublime-project",
+		"/Users/Volution/Desktop/Dropbox/BackUp-CD/Client-files/01BG/Penn/assets/stylesheets/custom.css",
+		"/Users/Volution/Desktop/Dropbox/BackUp-CD/Client-files/01BG/Penn/firstpage.html",
+		"/Users/Volution/Desktop/Dropbox/BackUp-CD/Client-files/01APR/15website/assets/stylesheets/application.sass/vendor/_bootstrap.scss",
+		"/Users/Volution/Desktop/Dropbox/BackUp-CD/Client-files/01ADG/15ADG01_Generations/Website/bootstrap-sass-3.3.1/dist/css/bootstrap-theme.css",
+		"/Users/Volution/Desktop/Dropbox/BackUp-CD/Client-files/01ADG/15ADG01_Generations/Website/bootstrap-sass-3.3.1/dist/css/bootstrap.css",
+		"/Users/Volution/Desktop/Dropbox/BackUp-CD/Client-files/01APR/15website/assets/stylesheets/application.sass/vendor/bootstrap/_variables.scss",
+		"/Users/Volution/Downloads/sculpt 1.2/library/sass/additional/_forms.scss",
+		"/Users/Volution/Desktop/Dropbox/BackUp-CD/Client-files/01ADG/15ADG01_Generations/Website/bootstrap-sass-3.3.1/assets/stylesheets/bootstrap/_scaffolding.scss",
+		"/Users/Volution/Desktop/Dropbox/BackUp-CD/Client-files/01ADG/15ADG01_Generations/Website/bootstrap-sass-3.3.1/assets/stylesheets/_bootstrap-compass.scss",
+		"/Users/Volution/Desktop/Dropbox/BackUp-CD/Client-files/01ADG/15ADG01_Generations/Website/bootstrap-sass-3.3.1/assets/stylesheets/bootstrap/_code.scss",
+		"/Users/Volution/Desktop/Dropbox/BackUp-CD/Client-files/01ADG/15ADG01_Generations/Website/bootstrap-sass-3.3.1/assets/stylesheets/bootstrap/mixins/_size.scss",
+		"/Users/Volution/Desktop/Dropbox/BackUp-CD/Client-files/01ADG/15ADG01_Generations/Website/bootstrap-sass-3.3.1/assets/stylesheets/bootstrap/_pager.scss",
+		"/Users/Volution/Desktop/Dropbox/BackUp-CD/Client-files/01ADG/15ADG01_Generations/Website/bootstrap-sass-3.3.1/assets/stylesheets/bootstrap/_wells.scss",
+		"/Users/Volution/Desktop/Lesson 03 Homework Files/portfolio/index.html",
+		"/Users/Volution/Desktop/Dropbox/GrayJay/08_jobSearch/bueckingHome/roots/assets/sass/_badges.scss",
+		"/Users/Volution/Desktop/Dropbox/GrayJay/08_jobSearch/bueckingHome/roots/assets/sass/_buttons.scss",
+		"/Users/Volution/Desktop/Dropbox/BackUp-CD/Client-files/01ADG/pennweb/template-2.html",
+		"/Users/Volution/Desktop/Dropbox/GrayJay/08_jobSearch/bueckingHome/style.css",
+		"/Users/Volution/Desktop/Dropbox/BackUp-CD/Client-files/01ADG/pennweb/template-1.html",
+		"/Users/Volution/Desktop/Placeholders.js-master/README.md",
+		"/Users/Volution/Desktop/Dropbox/BackUp-CD/Client-files/01ADG/pennweb/css/www-theme.css",
+		"/Users/Volution/Desktop/Dropbox/BackUp-CD/Client-files/01ADG/pennweb/css/www-theme3.css",
+		"/Users/Volution/Documents/bootstrap-sass/bootstrap sass/vendor/assets/stylesheets/bootstrap/_navs.scss",
+		"/Users/Volution/Documents/bootstrap-sass/bootstrap sass/vendor/assets/stylesheets/bootstrap/_navbar.scss",
+		"/Users/Volution/Documents/bootstrap-sass/bootstrap sass/vendor/assets/stylesheets/bootstrap/_normalize.scss",
+		"/Users/Volution/Documents/bootstrap-sass/bootstrap sass/vendor/assets/stylesheets/bootstrap/bootstrap.scss",
+		"/Users/Volution/Desktop/SassShop-master/exercises/kittens/sass/application.scss",
+		"/Users/Volution/Desktop/SassShop-master/exercises/kittens-2-variables/sass/application.scss",
+		"/Users/Volution/Desktop/SassShop-master/exercises/kittens/css/application.css",
+		"/Users/Volution/Desktop/SassShop-master/exercises/kittens/index.html",
+		"/Users/Volution/Desktop/SassShop-master/exercises/kittens-2-variables/css/application.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$navbar-inverse",
+			"navbar-inverse",
+			"5cb85c",
+			"00a2db",
+			"less",
+			"psep",
+			"@",
+			"radius",
+			"'Ribeye Marrow', cursive;",
+			"'Didact Gothic', sans-serif;",
+			"#fff",
+			"#EEE4DA"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$logo-font-family",
+			"$base-font-family",
+			"$white",
+			"$tan"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 380.0,
+	"status_bar_visible": true
+}
